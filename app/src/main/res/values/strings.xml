@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">org.d3if0074.tubes1</string>
+
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="histori">Histori</string>
+    <string name="hapus_histori">Hapus Histori</string>
+
+    <string name="persegi">Persegi</string>
+    <string name="persegi_Panjang">Persegi Panjang</string>
+
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="lihat_saran">Lihat Saran</string>
+
+    <string name="saran_kubus">Jika yang dimasukan nilai angka panjangnya sama dengan lebar makan akan membetuk objek KUBUS </string>
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini memberitahu apakah jika dihitung Panjang DIKALI Lebar akan memberikan jawaban apakah in ipersegi panjang atau persegi sama sisi, oleh karna itu mari kita coba!.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Panjang: %1$s cm\nLebar: %2$scm\n %3$scm\n %4$s</string>
+
+    <string name="intro">Aplikasi ini memberitahu apakah jika dihitung Panjang DIKALI Lebar akan memberikan jawaban apakah in ipersegi panjang atau persegi sama sisi, oleh karna itu mari kita coba!</string>
+    <string name="luas_x">Luas: %1$.2f</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
